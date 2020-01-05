@@ -1,0 +1,3 @@
+hal yang kurang
+1. database enum = size di product
+2. rajaongkir blm berhasil terintegrasi
